@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.example</groupId>
+    <artifactId>question39_42805652</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.loopj.android</groupId>
+            <artifactId>android-async-http</artifactId>
+            <version>1.4.9</version>
+        </dependency>
+        <dependency>
+            <groupId>cz.msebera.android</groupId>
+            <artifactId>httpclient</artifactId>
+            <version>4.4.1.2</version>
+        </dependency>
+    </dependencies>
+
+
+</project>
